@@ -1,5 +1,7 @@
 using Persistence;
 using Microsoft.EntityFrameworkCore;
+using MediatR;
+using Application.Activities;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +17,8 @@ builder.Services.AddCors(prop =>
         policy.AllowAnyMethod().AllowAnyHeader().AllowAnyOrigin();
     });
 });
+
+builder.Services.AddMediatR(typeof(List.Handler).Assembly);
 
 var clientSecret = builder.Configuration.GetValue<string>("ConnectionStrings:DefaultConnection");
 builder.Services.AddDbContext<DataContext>(opt =>

@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LF2E2lrKjNIf7t7zo4xTNIu2PH84iCG5fwScY9NcsdoK+Rtx/BWxwrSHT19s1iVDYFtb7+lD/OB0r4CfHVd+NA==",
+  "dgSpecHash": "BV8OGo565mE8EnRkmmuQQBzFYVqVjd/wWel9JNJNC+GdDgWbpC4uocXD8128qWoFhoptuocgWnSqnJYkutRS0w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Roman_Tsenov\\Documents\\projects\\Personal\\AspNetCoreReactApp\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Roman_Tsenov\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Roman_Tsenov\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Roman_Tsenov\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\Roman_Tsenov\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "C:\\Users\\Roman_Tsenov\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\Roman_Tsenov\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
