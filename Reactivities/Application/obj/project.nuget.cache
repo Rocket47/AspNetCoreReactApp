@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9FoAl1WBHdmbkdHX7OOiCU72I7TP+JkFkLsCaat36a7bBpmB7rkO9YL/JFHJyPEVGSowSepWnK1m5cOxoF8Ukw==",
+  "dgSpecHash": "aGoMzLK8gZF4DlUss12nmwEKoFQZC4mmJROyBUE/W4IKRXMi9X7fo/F369sC7cuD6absQcRB39kPqrFHDvFu8w==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Roman_Tsenov\\Documents\\projects\\Personal\\AspNetCoreReactApp\\Reactivities\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\Roman_Tsenov\\Documents\\projects\\Personal\\AspNetCoreReactApp\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Roman_Tsenov\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Roman_Tsenov\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

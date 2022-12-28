@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+A3DoAhgUDRrB96IAve3sPJasZUeSCzeWu4f6iBIrmP9ofnGmE1wAH80+V+Pe0Ol4smjZyVfT8rnY852fXRJrw==",
+  "dgSpecHash": "WbDry/0zPpgLz0ZPCQQ45g4qvc4PwHPxS7iueNYq/wsPZQMvs3BTXOXrUzxhrxUJS5DnEWEmTJdy5JXgKOUTCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Roman_Tsenov\\Documents\\projects\\Personal\\AspNetCoreReactApp\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "c:\\Users\\Roman_Tsenov\\Documents\\projects\\Personal\\AspNetCoreReactApp\\Reactivities\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

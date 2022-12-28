@@ -1,14 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "g9f3wt2+0xhMAuwRP/zRVX5Uq4sGrchtRQD0QabRKUfRz6bKrcxBV80YAIKPv/1/DvWvY5HssCFUbUK4Hf7Ngg==",
+  "dgSpecHash": "yDeqfuWGWroIJWTU2mbA4F0jHbpD5M/x6vl5Mp3AqIireAViZ/owrLk0B+NT1Ar7d0cFLMQ+MOAjQpaso8KaDA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Roman_Tsenov\\Documents\\projects\\Personal\\AspNetCoreReactApp\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Roman_Tsenov\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Roman_Tsenov\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\Roman_Tsenov\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Roman_Tsenov\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\Roman_Tsenov\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Roman_Tsenov\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\Roman_Tsenov\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
+    "C:\\Users\\Roman_Tsenov\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Roman_Tsenov\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "C:\\Users\\Roman_Tsenov\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\Roman_Tsenov\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
